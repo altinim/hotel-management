@@ -1,0 +1,9 @@
+HoteliKlienti3 - Femër 23 vjec.
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Numri i hapsirave te rezervuara: 3
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+SallaPerKonferenca 107- ... Përshkrimi...:100.0 me kapacitet 50
+SallaPerKonferenca 117- ... Përshkrimi...:370.0 me kapacitet 150
+DhomaVIP 122- ...Përshkrimi...:100.0 nuk ka Gjakuzi
+Totali: 570.0
+- - - - - - - - - - - - - - - - - - - - - - - - - 

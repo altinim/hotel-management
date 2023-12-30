@@ -1,0 +1,10 @@
+HoteliKlienti4 - Femër 23 vjec.
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Numri i hapsirave te rezervuara: 4
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+DhomaStandarde 102- ...Përshkrimi...:30.0 ka TV
+SallaPerKonferenca 108- ... Përshkrimi...:370.0 me kapacitet 150
+DhomaStandarde 121- ...Përshkrimi...:30.0 ka TV
+DhomaStandarde 129- ...Përshkrimi...:30.0 ka TV
+Totali: 460.0
+- - - - - - - - - - - - - - - - - - - - - - - - - 

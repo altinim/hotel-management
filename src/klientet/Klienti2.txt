@@ -1,0 +1,9 @@
+HoteliKlienti2 - Mashkull 24 vjec.
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Numri i hapsirave te rezervuara: 3
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+DhomaStandarde 100- ...Përshkrimi...:30.0 nuk ka TV
+Restoranti 115-... Përshkrimi...:10000.0 me kapacitet 500
+DhomaStandarde 129- ...Përshkrimi...:30.0 ka TV
+Totali: 10060.0
+- - - - - - - - - - - - - - - - - - - - - - - - - 

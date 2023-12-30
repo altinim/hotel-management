@@ -1,0 +1,17 @@
+KY RRESHT DHE RRESHTAT NE VAZHDIM NUK JANE VALID!
+
+KlientiMeGjiniInvalide:B:35
+KlientiMeMosheInvalide:M:Hello
+KlientiMeParametraJoValid:M:25:EktraParameter
+
+RRESHTAT NE VAZHDIM JANE VALID:
+Klienti1:M:21
+Klienti2:M:24
+Klienti3:F:23
+Klienti4:F:23
+Klienti5:M:30
+Klienti6:F:26
+Klienti7:M:24
+Klienti8:F:29
+Klienti9:M:27
+Klienti10:M:32

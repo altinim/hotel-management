@@ -1,0 +1,8 @@
+HoteliKlienti6 - Femër 26 vjec.
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Numri i hapsirave te rezervuara: 2
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+DhomaStandarde 111- ...Përshkrimi...:40.0 ka TV
+DhomaStandarde 119- ...Përshkrimi...:30.0 ka TV
+Totali: 70.0
+- - - - - - - - - - - - - - - - - - - - - - - - - 

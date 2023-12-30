@@ -1,0 +1,47 @@
+KY RRESHT DHE RRESHTAT NE VAZHDIM NUK JANE VALID!
+
+DhomaVIP:105: ...Përshkrimidsfffff...:149.99:true:EkstraParameterInvalid
+DhomaMeDataTypeInvalid:105:... Përshkrimi...: 219.95:600
+DhomaVIP:NrJoValid:... Përshkrimi...: 219.95:600
+DhomaVIP:105:... Përshkrimi...:CmimiJoValid:600
+DhomaVIP:105:... Përshkrimi...:CmimiJoValid:BooleanParametriInvalid
+Restoranti:105:... Përshkrimi...: 219.95:KapacitetInvalid
+
+RRESHTAT NE VAZHDIM JANE VALID:
+DhomaStandarde:101: ...Përshkrimi...:20.00:false
+DhomaStandarde:102: ...Përshkrimi...:30.00:true
+DhomaVIP:103: ...Përshkrimi...:100.00:false
+DhomaVIP:104: ...Përshkrimi...:150.00:true
+Restoranti:105:... Përshkrimi...: 600.00:300
+Restoranti:106:... Përshkrimi...: 1000:500
+SallaPerKonferenca:107: ... Përshkrimi...:100.00:50
+SallaPerKonferenca:108: ... Përshkrimi...:370.00:150
+DhomaStandarde:100: ...Përshkrimi...:30.00:false
+DhomaStandarde:111: ...Përshkrimi...:40.00:true
+DhomaVIP:112: ...Përshkrimi...:150.00:true
+DhomaVIP:113: ...Përshkrimi...:100.00:false
+Restoranti:114:... Përshkrimi...:600.00:300
+Restoranti:115:... Përshkrimi...:10000:500
+SallaPerKonferenca:116: ... Përshkrimi...:100.00:50
+SallaPerKonferenca:117: ... Përshkrimi...:370.00:150
+Restoranti:118:... Përshkrimi...:10000:500
+DhomaStandarde:119: ...Përshkrimi...:30.00:true
+DhomaStandarde:120: ...Përshkrimi...:20.00:false
+DhomaStandarde:121: ...Përshkrimi...:30.00:true
+DhomaVIP:122: ...Përshkrimi...:100.00:false
+DhomaVIP:123: ...Përshkrimi...:100.00:false
+DhomaVIP:124: ...Përshkrimi...:100.00:false
+SallaPerKonferenca:125: ... Përshkrimi...:370.00:150
+SallaPerKonferenca:126: ... Përshkrimi...:100.00:50
+Restoranti:127:... Përshkrimi...:600.00:300
+Restoranti:128:... Përshkrimi...:10000:500
+DhomaStandarde:129: ...Përshkrimi...:30.00:true
+DhomaStandarde:130: ...Përshkrimi...:30.00:true
+
+
+
+
+
+
+
+

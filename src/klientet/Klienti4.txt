@@ -1,0 +1,8 @@
+HoteliKlienti4 - Femër 23 vjec.
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Numri i hapsirave te rezervuara: 2
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+DhomaVIP 104- ...Përshkrimi...:150.0 ka Gjakuzi
+Restoranti 118-... Përshkrimi...:10000.0 me kapacitet 500
+Totali: 10150.0
+- - - - - - - - - - - - - - - - - - - - - - - - - 

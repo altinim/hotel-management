@@ -1,0 +1,9 @@
+HoteliKlienti2 - Mashkull 24 vjec.
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Numri i hapsirave te rezervuara: 3
+- - - - - - - - - - - - - - - - - - - - - - - - - 
+Restoranti 105-... Përshkrimi...:600.0 me kapacitet 300
+Restoranti 114-... Përshkrimi...:600.0 me kapacitet 300
+SallaPerKonferenca 125- ... Përshkrimi...:370.0 me kapacitet 150
+Totali: 1570.0
+- - - - - - - - - - - - - - - - - - - - - - - - - 
